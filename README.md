@@ -34,7 +34,7 @@ In Chrome browser, go to chrome://extensions page and switch on developer mode. 
 
 Now click on the `LOAD UNPACKED` and browse to `[PROJECT_HOME]\build` ,This will install the React app as a Chrome extension.
 
-When you go to any website and click on extension icon, injected page will toggle.
+Now, visit any Linkedin profile and click the recently added chrome extension icon. It will fetch some public data from linkedin and show in the right panel.
 
 
 ## License
